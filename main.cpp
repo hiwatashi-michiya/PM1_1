@@ -2,7 +2,7 @@
 
 int main() {
 
-	printf("Hello World!\n");
+	printf("Hello VisualStudio Git!\n");
 	
 	printf("コンソールアプリケーションを終了する場合は数字の1を押してEnterキーを入力してください");
 
