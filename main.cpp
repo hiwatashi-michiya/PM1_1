@@ -4,11 +4,11 @@ int main() {
 
 	printf("Hello VisualStudio Git!\n");
 	
-	printf("New branch changed\n");
+	printf("Github Clone changed\n");
 
 	printf("third branch\n");
 
-	printf("ƒRƒ“ƒ\[ƒ‹ƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ðI—¹‚·‚éê‡‚Í”Žš‚Ì1‚ð‰Ÿ‚µ‚ÄEnterƒL[‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢");
+	printf("ã‚³ãƒ³ã‚½ãƒ¼ãƒ«ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã‚’çµ‚äº†ã™ã‚‹å ´åˆã¯æ•°å­—ã®1ã‚’æŠ¼ã—ã¦Enterã‚­ãƒ¼ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„");
 
 	int i = 0;
 	while (i != 1) {
